@@ -2,7 +2,7 @@
 
 - This case study involves Predictive Analytics and Linear Regression—components of Machine Learning.
 - A separate PDF file accompanies it, containing answers to all the subjective questions posed as part of the assignment.
-- I completed this case study while participating in the Executive PG Diploma program offered by UpGrad in association with IIIT Bangalore.
+- I completed this case study while participating in the program offered by UpGrad in association with IIIT Bangalore.
 
 # Business Problem :
 
